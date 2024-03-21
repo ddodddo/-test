@@ -1,0 +1,13 @@
+package jpaboook.jpashoop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JpashoopApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
